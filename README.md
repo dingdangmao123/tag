@@ -24,6 +24,7 @@
 
 - ./ext_skel –extname=yourext
 - config.m4
+
 > dnl PHP_ARG_WITH(myext, for myext support,
 dnl Make sure that the comment is aligned:
 dnl [  --with-myext             Include myext support])

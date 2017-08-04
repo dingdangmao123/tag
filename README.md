@@ -33,3 +33,23 @@ dnl [  --with-myext             Include myext support])
 [  --with-myext             Include myext support])
 
 - ext目录下依次执行phpize、./configure 、make、make install。然后修改php.ini加入extension={your ext.so}
+
+
+
+- git add
+- git add .
+- git reset HEAD file
+- git remote add origin(远程名) git@github.com:name/res
+- git branch newbranch
+- git checkout branch
+- git merge branch 合并当前和branch
+- git pull <远程主机名> <远程分支名>:<本地分支名>
+- git push <远程主机名> <本地分支名>:<远程分支名>
+
+
+
+
+
+
+
+
